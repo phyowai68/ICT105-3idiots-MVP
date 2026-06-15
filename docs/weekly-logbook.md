@@ -20,7 +20,7 @@
 - GitHub repository link: https://github.com/phyowai68/ICT105-3idiots-MVP
 - Screenshot: see screenshots/ (folder structure and Issues)
 - File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/problem-notes.md, docs/weekly-logbook.md
-- Commit link: [paste one commit URL here]
+- Commit link: [https://github.com/phyowai68/ICT105-3idiots-MVP/commit/d4a7bfbed5f9748806c472e95cea62eaaf52aa6d]
 
 ### Decision Made This Week
 We set the Student Apartment Finder Chatbot as our current front-runner, while keeping the AI Assistant for IT Students and the Campus Student Marketplace as alternatives. The final choice will be made in Lab 2 after opportunity scanning.
