@@ -18,7 +18,10 @@
 
 ### Evidence of Work
 - GitHub repository link: https://github.com/phyowai68/ICT105-3idiots-MVP
-- Screenshot: see screenshots/ (folder structure and Issues)
+- Screenshot:<img width="1918" height="967" alt="Screenshot 2026-06-15 184917" src="https://github.com/user-attachments/assets/2871baf1-f3c3-4305-af22-c39e24e62948" />
+<img width="1918" height="913" alt="Screenshot 2026-06-15 184953" src="https://github.com/user-attachments/assets/40814011-20a7-4921-9182-011664cb38fc" />
+
+
 - File created: README.md, docs/team-profile.md, docs/idea-log.md, docs/problem-notes.md, docs/weekly-logbook.md
 - Commit link: [https://github.com/phyowai68/ICT105-3idiots-MVP/commit/d4a7bfbed5f9748806c472e95cea62eaaf52aa6d]
 
