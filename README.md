@@ -1,4 +1,4 @@
-# Smart Campus Lost-and-Found System
+# Student Apartment Finder Chatbot
 
 ICT105 IT Startup MVP Project — Team 3idiots
 
@@ -23,28 +23,27 @@ ICT105 IT Startup MVP Project — Team 3idiots
 
 ## Initial Problem Area
 
-Students frequently lose personal belongings such as wallets, ID cards, keys, and electronic devices on campus. The current process of finding lost items is inefficient because information is scattered across social media groups, messaging platforms, and security offices, so most items are never recovered.
+Students — especially new and international students — struggle to find available apartments near the university. Listings are scattered across Facebook groups, agents, and word of mouth, often with unclear prices, room types, and distances from campus, which makes searching slow and stressful.
 
 ## Target Users
 
-- University students
-- Security staff
-- Administrative staff
-- Student organizations
+- University students looking for off-campus housing near campus
+- New and international students unfamiliar with the area
+- Students changing accommodation between semesters
 
 ## Initial IT Venture Direction
 
-Our team's front-runner is a web-based **Smart Campus Lost-and-Found System** that lets users report lost items, upload item information and photos, search for found items, and contact the responsible office. This is one of three ideas in `docs/idea-log.md`; the final direction will be confirmed in Lab 2 after opportunity scanning.
+Our team's front-runner is a **Student Apartment Finder Chatbot** where students ask for available apartments by budget, distance to campus, and room type, and instantly receive matching listings with details and contact information. This is one of three ideas in `docs/idea-log.md`; the final direction will be confirmed in Lab 2 after opportunity scanning.
 
 ## Technology Possibility
 
 Possible technologies:
 
+- Chatbot interface (web or messaging)
 - Web application
-- Cloud-based system
-- Dashboard
-- Mobile-friendly interface
-- Database integration
+- Database of apartment listings
+- AI / natural-language understanding for queries
+- Map and distance-to-campus feature
 - Search and filter functionality
 
 ## Repository Structure
@@ -67,7 +66,7 @@ Possible technologies:
 
 ## Current Status
 
-The team has created the GitHub repository with the full required folder structure. We prepared the initial project documentation — README, team profile, idea log, problem notes, and weekly logbook — and set the Smart Campus Lost-and-Found System as our current front-runner among three candidate ideas for further evaluation.
+The team has created the GitHub repository with the full required folder structure. We prepared the initial project documentation — README, team profile, idea log, problem notes, and weekly logbook — and set the Student Apartment Finder Chatbot as our current front-runner among three candidate ideas for further evaluation.
 
 ## Next Step
 
