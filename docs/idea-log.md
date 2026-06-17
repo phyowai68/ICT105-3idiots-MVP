@@ -29,7 +29,7 @@ It can be prototyped as a web app that calls an AI API and validated quickly wit
 ## Idea 2: Student Apartment Finder Platform
 
 ### Problem Area
-Students — especially new and international ones — struggle to find available apartments near the university. Listings are scattered across Facebook groups, agents, and word of mouth, often with unclear prices and distances.
+Students especially new and international ones struggle to find available apartments near the university. Listings are scattered across Facebook groups, agents, and word of mouth, often with unclear prices and distances.
 
 ### Target Users
 University students looking for off-campus housing near campus, especially newcomers.
